@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: orange;
+}
+
+a{
+    font-size: 60px;
+    text-decoration: underline;
+    color: white;
+
+}
+
+body{
+    background-color: blueviolet;
+}
